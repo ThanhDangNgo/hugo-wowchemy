@@ -6,7 +6,36 @@
 en:
   languageCode: en-us
   # Uncomment for multi-lingual sites, and move English content into `en` sub-folder.
-  #contentDir: content/en
+  contentDir: content/en
+  title: Thanh Nhieu Chu
+
+  # Site footer
+  #footer:
+  #  copyright:
+  #    notice: '© {year} Thanh Nhieu Chu'
+  #    license:
+  #      enable: true
+  #      allow_derivatives: false
+  #      share_alike: true
+  #      allow_commercial: false
+
+vi:
+  languageCode: vi-vn
+  # Uncomment for multi-lingual sites, and move English content into `en` sub-folder.
+  contentDir: content/vi
+  description: Site description in Vietnamese
+
+  # Site footer
+  #footer:
+  #  copyright:
+  #    notice: '© {year} Thành Nhiều Chữ'
+  #    license:
+  #      enable: true
+  #      allow_derivatives: false
+  #      share_alike: true
+  #      allow_commercial: false
+
+
 
 # Uncomment the lines below to configure your website in a second language.
 #zh:

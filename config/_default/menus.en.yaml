@@ -7,14 +7,14 @@ main:
   - name: Profile
     url: 'profile'
     weight: 10
-  - name: Bài Viết
-    url: 'bai-viet'
+  - name: Posts
+    url: 'posts'
     weight: 20
-  - name: Ghi Chú
-    url: 'ghi-chu'
+  - name: Notes
+    url: 'notes'
     weight: 30
-  - name: Giới Thiệu
-    url: 'gioi-thieu'
+  - name: About
+    url: 'about'
     weight: 40
 
 

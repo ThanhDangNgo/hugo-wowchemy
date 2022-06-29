@@ -18,10 +18,11 @@ marketing:
     site_type: Person
     local_business_type: ''
     org_name: ''
-    description: 'A highly-customizable Hugo academic resume theme powered by Wowchemy website builder.'
-    twitter: 'wowchemy'
+    description: 'Thành Nhiều Chữ - Blog của thanhdangngo'
+    twitter: 'ThanhDangNgo'
   analytics:
-    google_analytics: ''
+    google_analytics: 'G-4VDG4TPPJ8'
+    google_tag_manager: 'G-4VDG4TPPJ8' 
     baidu_tongji: ''
   verification:
     google: ''
@@ -39,22 +40,12 @@ header:
     show_search: true
     highlight_active_link: true
 
-# Site footer
-
-footer:
-  copyright:
-    notice: '© {year} Me. This work is licensed under {license}'
-    license:
-      enable: true
-      allow_derivatives: false
-      share_alike: true
-      allow_commercial: false
 
 # Localization
 
 locale:
   date_format: 'Jan 2, 2006'
-  time_format: '3:04 PM'
+  time_format: '23:04'
   address_format: en-us
 
 # Site features
