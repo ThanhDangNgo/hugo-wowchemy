@@ -3,6 +3,8 @@ title: Suy Nghĩ Khi Đang Làm Blog
 
 date: '2022-06-20'
 
+lastmod: '2022-06-20'
+
 summary: Đọc và Viết Blog
 
 ---

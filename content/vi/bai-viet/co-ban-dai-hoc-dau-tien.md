@@ -3,6 +3,8 @@ title: Cô Bạn Đại Học Đầu Tiên
 
 date: '2020-11-12'
 
+lastmod: '2020-11-12'
+
 summary: Bạn quay xuống hỏi bọn mình có đúng lớp học không, câu sau thì bạn bảo "cậu ngồi lên trên này cùng mình đi!" 
 
 ---
