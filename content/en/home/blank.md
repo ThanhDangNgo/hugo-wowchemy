@@ -9,7 +9,7 @@ design:
 
 <div class="flex-container">
   <div class="flex-item">
-      <p style="font-size: alc(100% + 0.5vw)">Day-by-day learn to walk, to read, to write to be more open</p> 
+      <p style="font-size: alc(100% + 0.5vw)">This website is under construction</p> 
   </div>
 </div>
 

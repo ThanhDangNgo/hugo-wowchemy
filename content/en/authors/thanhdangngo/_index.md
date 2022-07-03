@@ -73,7 +73,4 @@ email: ""
 ---
 
 
-
 Day-by-day learn to walk, to read, to write to be more open
-
-This website is under construction

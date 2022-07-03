@@ -2,7 +2,7 @@
 title: Bài Viết
 cms_exclude: true
 
-subtitle: Những bài viết hoàn chỉnh của mình.
+subtitle: Những bài viết hoàn chỉnh của mình, đọc chút gì nhé.
 
 # View.
 #   1 = List

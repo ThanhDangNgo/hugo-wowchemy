@@ -6,7 +6,7 @@ title: Ngô Đăng Thành
 superuser: true
 
 # Role/position/tagline
-role: #PhD Student (Social Psychology)
+role: Freelancer
 
 # Highlight the author in author lists? (true/false)
 highlight_name: true
@@ -17,22 +17,22 @@ organizations:
     url: ""
 
 # Short bio (displayed in user profile at end of posts)
-bio: TDN
+bio: Data Driven-Freelancer
 
 # Interests to show in About widget
 interests:
-#  - Implicit attitudes
-#  - Self-regulation
-#  - Morality
+  - Data Driven
+  - Kinh tế & Tài chính
+  - Xã hội Dân sự
 #  - Dreams
 #  - Body ownership
 
 # Education to show in About widget
 education:
-#  courses:   
-#  - course: PhD in Psychology
-#    institution: Université du Québec à Montréal
-#    year: 2024
+  courses:   
+  - course: Cử nhân Kinh tế học
+    institution: Đại học Kinh tế Quốc dân
+    year: 2022
 #  - course: MSc in Psychiatry
 #    institution: McGill University
 #    year: 2018
@@ -72,8 +72,8 @@ email: ""
 
 ---
 
+Tốt nghiệp cử nhân Kinh tế học, yêu thích công nghệ, hứng thú với việc lập trình. Có khả năng đọc, nghiên cứu và viết. Định hướng trong tương lai gần sẽ trở thành Data Analyst.
 
+Sáng lập và đồng điều hành dự án [Khán Đài Chính](https://www.facebook.com/MainGrandstand), dự kiến công bố sản phẩm tạp chí và mạng xã hội Khán Đài Chính - MXH với nội dung chuyên về thể thao trong năm 2022.
 
-Tập đi, tập đọc, tập viết để cởi mở hơn từng ngày
-
-Website này đang được hoàn thiện
+Cởi mở và hòa đồng, có lý tưởng sống rõ ràng. Có khả năng chơi đa dạng các môn thể thao.

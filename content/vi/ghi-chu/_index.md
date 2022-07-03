@@ -2,7 +2,7 @@
 title: Những Ghi Chép Ngắn
 subtitle: Chất liệu và suy nghĩ mà mình chiêm nghiệm được.
 
-translationKey: notes
+#translationKey: notes
 
 # Summary for listings and search engines
 summary: Chất liệu và suy nghĩ mà mình chiêm nghiệm được.
@@ -21,6 +21,8 @@ draft: false
 
 # Show this page in the Featured widget?
 featured: false
+
+view: 3
 
 # Featured image
 # Place an image named `featured.jpg/png` in this page's folder and customize its options here.
