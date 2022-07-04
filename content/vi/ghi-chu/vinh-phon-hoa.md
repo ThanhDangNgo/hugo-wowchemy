@@ -1,9 +1,9 @@
 ---
 title: Vinh Phồn Hoa
 
-date: '2022-07-02'
+date: 2022-07-02
 
-lastmod: '2022-07-02'
+lastmod: 2022-07-02
 
 summary:
 

@@ -72,7 +72,7 @@ email: ""
 
 ---
 
-Tốt nghiệp cử nhân Kinh tế học, yêu thích công nghệ, hứng thú với việc lập trình. Có khả năng đọc, nghiên cứu và viết. Định hướng trong tương lai gần sẽ trở thành Data Analyst.
+Tốt nghiệp cử nhân Kinh tế học, yêu thích công nghệ, hứng thú với việc lập trình. Có khả năng đọc, nghiên cứu, phân tích số liệu và viết. Định hướng trong tương lai gần sẽ trở thành Data Analyst.
 
 Sáng lập và đồng điều hành dự án [Khán Đài Chính](https://www.facebook.com/MainGrandstand), dự kiến công bố sản phẩm tạp chí và mạng xã hội Khán Đài Chính - MXH với nội dung chuyên về thể thao trong năm 2022.
 
