@@ -1,10 +1,11 @@
 ---
-title: Suy Nghĩ Khi Đang Làm Blog
+title: Đọc và Viết Blog
 
 date: 2022-06-20
 
+subtitle: Suy Nghĩ Khi Đang Làm Blog
 
-summary: Đọc và Viết Blog
+summary: Suy Nghĩ Khi Đang Làm Blog
 
 ---
 
