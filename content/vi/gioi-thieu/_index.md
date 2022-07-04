@@ -56,7 +56,7 @@ Mình mới biết viết thôi, những dòng đơn giản chứ chưa mang nhi
 ### Câu chuyện về website này
 Tuy học kinh tế nhưng lâu nay mình luôn có hứng thú với công nghệ, cả điện thoại lẫn PC nên mình đã quyết định sẽ học code và tạo ra trang web này. Viết code cũng là viết chữ mà.😁
 
-Từng làm SEO và tự mày mò trên những platform CSM "mì ăn liền" như Wordpress, Blogspot... thì mình thấy chúng hoặc là quá rối rắm và thừa thãi chức năng, hoặc là không đủ thẩm mỹ cool ngầu nếu để làm một cái blog theo ý muốn. 
+Từng làm SEO và tự mày mò trên những platform CMS "mì ăn liền" như Wordpress, Blogspot... thì mình thấy chúng hoặc là quá rối rắm và thừa thãi chức năng, hoặc là không đủ thẩm mỹ cool ngầu nếu để làm một cái blog theo ý muốn. 
 
 Rồi mình tìm được [Hugo](https://gohugo.io/), một framework đủ đơn giản cho việc triển khai, đủ phức tạp cho một người hoàn toàn chưa biết gì về code, có thể tạo ra một website hoàn chỉnh và cân nhắc đến việc học lập trình một cách nghiêm túc. 
 

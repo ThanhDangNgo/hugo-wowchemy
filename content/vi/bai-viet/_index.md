@@ -1,8 +1,8 @@
 ---
-title: Bài Viết
+title: Những Bài Viết Hoàn Chỉnh
 cms_exclude: true
 
-subtitle: Những bài viết hoàn chỉnh của mình, đọc chút gì nhé.
+subtitle: Đọc chút gì nhé.
 
 # View.
 #   1 = List
