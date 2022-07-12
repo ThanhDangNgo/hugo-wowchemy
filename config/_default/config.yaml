@@ -73,7 +73,8 @@ sitemap:
 params:
   opengraph_io_api_key: 808ba0bc-1b80-4c47-85f8-1279067edd08
 
-
+customCSS:
+  - /style.css
 
 
 
