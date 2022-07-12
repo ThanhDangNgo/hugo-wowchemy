@@ -1,11 +1,11 @@
 ---
 title: Những Ghi Chép Ngắn
-subtitle: Chất liệu và suy nghĩ mà mình chiêm nghiệm được.
+subtitle: Chất liệu cho việc viết.
 
 #translationKey: notes
 
 # Summary for listings and search engines
-summary: Chất liệu và suy nghĩ mà mình chiêm nghiệm được.
+summary: Chất liệu cho việc viết.
 
 # Link this post with a project
 projects: []
@@ -22,7 +22,7 @@ draft: false
 # Show this page in the Featured widget?
 featured: false
 
-view: 3
+view: 5
 
 # Featured image
 # Place an image named `featured.jpg/png` in this page's folder and customize its options here.
