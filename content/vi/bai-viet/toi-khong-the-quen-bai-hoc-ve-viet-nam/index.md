@@ -3,7 +3,7 @@ title: Tôi không thể quên bài học về Việt Nam. Bạn cũng nên như
 
 subtitle: “Chúng tôi không còn quan trọng bởi vì chúng tôi sinh ra ở Afghanistan… Không ai quan tâm đến chúng tôi. Chúng tôi sẽ chết dần trong quên lãng."
 
-date: 2020-10-05
+date: 2021-10-05
 
 summary: “Chúng tôi không còn quan trọng bởi vì chúng tôi sinh ra ở Afghanistan… Không ai quan tâm đến chúng tôi. Chúng tôi sẽ chết dần trong quên lãng."
 
